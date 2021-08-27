@@ -1,0 +1,5 @@
+numpy
+pandas
+Pillow
+torch==1.9.1
+torchvision==0.7.0
