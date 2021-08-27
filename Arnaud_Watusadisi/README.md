@@ -1,4 +1,4 @@
-# DCGAN implementation
+# Arnaud implementation
 
 ## How to run code
 
